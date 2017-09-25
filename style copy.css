@@ -1,0 +1,34 @@
+h1{
+    background-color:#4aaaa5;
+    border:50px #4aaaa5;
+    padding:20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+
+}
+body{
+ background-image: url("regal.png");
+}
+.navbar-right{
+    padding-right: 100px;
+    text-align: center;
+}
+.header{
+    padding:5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#4aaaa5;
+    font-size: 150%;
+    font-style: bolder;
+}
+.panel text{
+    padding-right:80px;
+}
+.col-md-4{
+    padding:5px;
+}
+.panel{
+    border: 50px,bold,grey;
+}
+.header2{
+
+}
