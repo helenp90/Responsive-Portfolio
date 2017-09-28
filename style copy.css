@@ -1,34 +1,41 @@
-h1{
-    background-color:#4aaaa5;
-    border:50px #4aaaa5;
-    padding:20px;
+.navbar-brand {
+    background-color: #4aaaa5;
+    border: 50px #4aaaa5;
+    padding: 20px;
+    margin-left: 100px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: white;
+    color:white;
+}
+img{
+    margin-left: 25px;
+    height:100px;
+    width:200px;
+}
+body {
+    background-image: url("https://github.com/helenp90/Responsive-Portfolio/blob/master/images%20copy/regal.png?raw=true");
+}
+.navbar-right {
+    margin-right: 150px;
+}
+.portfolio{
+    color:grey;
+    padding-right: 15px;
+}
+.contact{
+    color:grey;
+    padding-right: 15px;
+}
+.container{
+    background-color: white;
+    box-sizing: 
+    border:50px, bold, lightgrey;
+}
 
+.panel text {
+    padding-right: 80px;
 }
-body{
- background-image: url("regal.png");
+footer{
+    background-color: grey;
+    border-top: #4aaaa5
 }
-.navbar-right{
-    padding-right: 100px;
-    text-align: center;
-}
-.header{
-    padding:5px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color:#4aaaa5;
-    font-size: 150%;
-    font-style: bolder;
-}
-.panel text{
-    padding-right:80px;
-}
-.col-md-4{
-    padding:5px;
-}
-.panel{
-    border: 50px,bold,grey;
-}
-.header2{
 
-}
